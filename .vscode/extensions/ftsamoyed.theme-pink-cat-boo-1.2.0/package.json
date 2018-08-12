@@ -1,0 +1,51 @@
+{
+	"name": "theme-pink-cat-boo",
+	"displayName": "Pink-Cat-Boo Theme",
+	"version": "1.2.0",
+	"publisher": "ftsamoyed",
+	"description": "A sweet and cute theme especially for coder girls.",
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "*"
+	},
+	"auth": {
+		"name": "ftsamoyed(Fiona Fan)",
+		"email": "ftsamoyed@gmail.com",
+		"url": "https://github.com/ftsamoyed"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ftsamoyed/PinkCatBoo"
+	},
+	"bugs": {
+		"url": "https://github.com/ftsamoyed/PinkCatBoo/issues"
+	},
+	"galleryBanner": {
+		"color": "#202330",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"keywords": [
+		"theme",
+		"pink",
+		"cute",
+		"dark"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Pink Cat Boo",
+				"uiTheme": "vs-dark",
+				"path": "./themes/pink-cat-boo.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "71f8bc18-fb5f-401f-aa46-5a5484e605a7",
+		"publisherId": "0a86ea74-efd9-481a-bd8b-a12757203595",
+		"publisherDisplayName": "Fiona Fan"
+	}
+}

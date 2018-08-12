@@ -1,0 +1,28 @@
+{
+	"name": "Milotic",
+	"version": "0.1.5",
+	"publisher": "Vikesh",
+	"engines": {
+		"vscode": "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vicky002/Milotic/tree/master/milotic-vscode"
+	},
+	"categories": [
+		"themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Milotic",
+				"uiTheme": "vs-dark"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "f289879d-f28b-4886-8c12-1be039404914",
+		"publisherId": "0c049ce5-e49c-4056-a5ca-ddffeacaf222",
+		"publisherDisplayName": "Vikesh Tiwari"
+	}
+}

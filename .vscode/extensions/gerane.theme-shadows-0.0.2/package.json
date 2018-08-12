@@ -1,0 +1,33 @@
+{
+	"name": "Theme-Shadows",
+	"displayName": "Shadows Theme",
+	"description": "Shadows Theme ported from the Shadows TextMate Theme",
+	"version": "0.0.2",
+	"publisher": "gerane",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"homepage": "https://github.com/gerane/VSCodeThemes/blob/master/gerane.Theme-Shadows/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gerane/VSCodeThemes.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Shadows",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Shadows.tmTheme"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "2935b940-f4ad-4e7c-8a11-b54001b023db",
+		"publisherId": "a5c25faf-bf60-4941-81b9-9a852b96c5fb",
+		"publisherDisplayName": "gerane"
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"name": "bubblegum",
+	"displayName": "bubblegum",
+	"description": "Cute light theme featuring lots of pink and blue",
+	"version": "1.0.0",
+	"publisher": "connieth",
+	"repository": {
+		"url": "https://connicpu.visualstudio.com/_git/bubblegum",
+		"type": "git"
+	},
+	"engines": {
+		"vscode": "^1.21.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Bubblegum",
+				"uiTheme": "vs",
+				"path": "./themes/Bubblegum-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "e6bc6b10-a8dd-4b02-858d-4d0586d5418c",
+		"publisherId": "5dd5b522-0181-464c-a237-d1dd35c3c48a",
+		"publisherDisplayName": "Connie Hilarides"
+	}
+}

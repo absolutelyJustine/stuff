@@ -1,0 +1,39 @@
+{
+	"name": "roseate",
+	"displayName": "Roseate",
+	"description": "A dark theme which utilizes shades of pink and a tiny bit of spring green.",
+	"version": "0.3.0",
+	"publisher": "endorfina",
+	"icon": "roseate.png",
+	"engines": {
+		"vscode": "^1.21.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/endorfina/roseate"
+	},
+	"keywords": [
+		"pink",
+		"cherry",
+		"sweet",
+		"cute",
+		"dark"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Roseate",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Roseate-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "03e32e5a-7af3-4e3d-8bc7-aa3524923de8",
+		"publisherId": "c5841b1a-6565-47bb-9d85-90ef5dc66c12",
+		"publisherDisplayName": "Emilia Majewska"
+	}
+}

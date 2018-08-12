@@ -1,0 +1,33 @@
+{
+	"name": "Theme-Lavender",
+	"displayName": "Lavender Theme",
+	"description": "Lavender Theme ported from the Lavender TextMate Theme",
+	"version": "0.0.2",
+	"publisher": "gerane",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"homepage": "https://github.com/gerane/VSCodeThemes/blob/master/gerane.Theme-Lavender/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gerane/VSCodeThemes.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Lavender",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Lavender.tmTheme"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "9f248575-4eae-4cc8-82bc-fe5e654dfe13",
+		"publisherId": "a5c25faf-bf60-4941-81b9-9a852b96c5fb",
+		"publisherDisplayName": "gerane"
+	}
+}
